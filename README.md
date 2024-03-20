@@ -13,7 +13,7 @@ Datasets (first few based on Effectiveness of RNN blog post from Karpathy et al.
 - Wikipedia (English)
 - Shakespeare
 - [Maths textbook](https://github.com/stacks/stacks-project)
-- Something comparable in spirit but of your choice (do confirm with TA Ayush)
+- Something comparable in spirit but of your choice (do confirm with TA Ayush)[5 marks]
 
 ## XOR Dataset Classification
 - Learn the following models on the XOR dataset (200 training instances and 200 test instances) such that all these models achieve similar results (good). The definition of good is left subjective – but you would expect the classifier to capture the shape of the XOR function.
